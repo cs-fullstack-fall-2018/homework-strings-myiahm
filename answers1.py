@@ -9,5 +9,6 @@
 #forgotten at the end or beginning.
 
 #problem2:
+
 x = ["apple", "banana", "carrot"]
-print("apples" , "bananas" , "and" , "carrots")
+print("apple"+'s ' + "banana" +'s and ' + "carrot" + 's')
